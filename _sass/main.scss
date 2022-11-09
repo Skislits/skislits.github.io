@@ -1,0 +1,50 @@
+body {
+    color: #222;
+}
+
+a {
+    color: #0033cc;
+}
+
+nav {
+    width: 100%;
+}
+
+li {
+    padding: 5px;
+}
+
+h3 {
+    display: inline-block;
+    border-radius: 5px;
+    padding: 3px;
+    background-color: #ccc;
+}
+
+
+body.dark {
+    // background: #152028;
+    background: #0b1530;
+    color:  #eee;
+
+    a {
+        color: #1aabb6;
+    }
+    h1, h2 {
+        color: #cec659;
+    }
+    h3 {
+        display: inline-block;
+        border-radius: 5px;
+        padding: 3px;
+        background-color: #3a4564;
+    }
+    .highlight, code {
+        background-color: #0b1530;
+        color: #cec659;
+    }
+}
+
+.hidden {
+    display: none;
+}
