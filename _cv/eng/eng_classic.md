@@ -13,27 +13,27 @@ Perm, Russia
 
 - ### System Analyst, Jira Developer at [ER-Telecom](https://ertelecom.ru/en)
     *2nd telecom in Russia, Department of Business Development*
-    
+
     > 12.2020-now (2 year)
 
     Analyst and Developer in small team responsible for Jira & Confluence with 14.000 users
-    
-    #### As a system analyst:
+ 
+    **As a system analyst:**
     - Developed product vision, methodology and project templates
     - Refactored business process in high-load projects which significantly simplified submitting a customer requests, reduced coordination time and increased data quality
     - Research and implement new plugins for Jira/Confluence: business understanding, plugins benchmarking, configuration, writing instructions and training users
     - Coached 2 junior Jira Administrators
-    - Liaised with a number of managers and teams every day  
-    
-    #### As a Jira developer:  
+    - Liaised with a number of managers and teams every day
+
+    **As a Jira developer:**  
     - Created >50 automated reports using Jira REST API + Python, Jira Java API + Groovy, SQL and JQL
     - Created Postman collection with Jira REST API request examples for integration
     - Automated >20 cross-department workflows 
     - Made a transition from PowerShell-scripts to Jira Automation and Groovy-scripts
     - Implemented GitLab for Jira Workflows
-    
+ 
     ```
-    Jira, Software Requirements, System thinking, Business Intelligence, Python, Groovy, Oracle PL/SQL, PostgreSQL,  Linux, BPMN2, UML, etc.
+    Jira, BI, Python, Groovy, Oracle PL/SQL, Linux, BPMN2, UML, etc.
     ```  
 
 - ### System Analyst, BI Analyst at [Bright Soft](https://bright-soft.ru/)
