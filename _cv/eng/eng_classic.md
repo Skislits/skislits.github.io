@@ -16,7 +16,7 @@ Perm, Russia
 
     > 12.2020-now (2 year)
 
-    Analyst and Developer in small team responsible for Jira & Confluence with 14.000 users
+    Analyst and Developer in a small team responsible for Jira & Confluence with 14.000 users
  
     **As a system analyst:**
     - Developed product vision, methodology and project templates
