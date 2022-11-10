@@ -12,7 +12,7 @@ Perm, Russia
 ## Experience:
 
 - ### System Analyst, Jira Developer at [ER-Telecom](https://ertelecom.ru/en)
-    *2nd telecom in Russia, Department of Business Development*
+    *The 2nd biggest telecom in Russia, Department of Business Development*
 
     > 12.2020-now (2 year)
 
@@ -20,8 +20,8 @@ Perm, Russia
  
     **As a system analyst:**
     - Developed product vision, methodology and project templates
-    - Refactored business process in high-load projects which significantly simplified submitting a customer requests, reduced coordination time and increased data quality
-    - Research and implement new plugins for Jira/Confluence: business understanding, plugins benchmarking, configuration, writing instructions and training users
+    - Refactored business process in high-load projects which significantly simplified submitting requests, reduced coordination time and increased data quality
+    - Researched and implemented new plugins for Jira/Confluence: business understanding, plugins benchmarking, configuration, writing instructions and training users
     - Coached 2 junior Jira Administrators
     - Liaised with a number of managers and teams every day
 
@@ -49,8 +49,8 @@ Perm, Russia
     **Activities:**
 
     - Created 10 dashboards using Qlik Sense for top management of Moscow Government
-    - Developed part of data pipelines for [map](https://www.mos.ru/map) for Moscow Government Site and [COVID app](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3)
-    - Managed the team of 3 outsource-employees
+    - Developed a part of data pipelines for [map](https://www.mos.ru/map) for Moscow Government Site and [COVID app](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3)
+    - Managed a team of 3 outsource-employees
     - Managed change requests, scope creep, and other project risks
 
     ```
