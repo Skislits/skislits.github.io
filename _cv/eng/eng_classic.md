@@ -66,7 +66,7 @@ Perm, Russia
     Pandas, Scikit-learn, Django, Statistics, Linux, Telecom Network, Data Analytics  
     ```
 
-- Multiple online courses, including **PL/SQL** course from [ER-Telecom](https://ertelecom.ru/en), **Xsolla School Analytics** course from [Xsolla](https://xsolla.com/), and **more** 
+- Multiple online courses, including **PL/SQL** course from [ER-Telecom](https://ertelecom.ru/en), Top 30 out of 200 participants of **Xsolla School Analytics** course from [Xsolla](https://xsolla.com/), and **more** 
 
 
 ## Languages:
